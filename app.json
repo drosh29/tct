@@ -5,7 +5,7 @@
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Your WhatsApp session ID (REQUIRED)",
+      "description":"tct_d8b4ea46",
       "value": "",
       "required": true
     },
